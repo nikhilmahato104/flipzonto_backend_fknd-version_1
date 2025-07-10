@@ -1,0 +1,25 @@
+{
+  "name": "flipzonto_backend_fknd-version_1",
+  "version": "1.0.0",
+  "description": "flipzonto_version -set up and runing local not for server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilmahato104/flipzonto_backend_fknd-version_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilmahato104/flipzonto_backend_fknd-version_1/issues"
+  },
+  "homepage": "https://github.com/nikhilmahato104/flipzonto_backend_fknd-version_1#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "simple-git": "^3.28.0"
+  }
+}
